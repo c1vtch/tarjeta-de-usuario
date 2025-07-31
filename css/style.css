@@ -22,7 +22,7 @@ body{
         position: relative;
         border-radius: 10px;
         width: 900px;
-        height: 610px;
+        height: 550px;
         position: relative;
     }
     .background{
@@ -50,7 +50,8 @@ body{
         margin-top: 50px;
     }
     .info > *{
-        margin-top: 20px;
+        
+        margin-left: 30px;
         padding: 15px;
     }
     
@@ -64,8 +65,9 @@ body{
         text-wrap: wrap;
     }
     .edit-btn{
-        margin: 25px 15px;
-        padding: 10px 20px;
+        margin-top: 25px;
+        margin-left: 45px;
+        padding: 10px 10px;
         width: 120px;
         font-size: 1rem;
         border: none;
