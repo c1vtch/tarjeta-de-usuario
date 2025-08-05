@@ -64,6 +64,9 @@ body{
         color: #777779;
         text-wrap: wrap;
     }
+    .info .description{
+        font-size: 18px;
+    }
     .edit-btn{
         margin-top: 25px;
         margin-left: 45px;
